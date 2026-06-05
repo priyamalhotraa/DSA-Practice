@@ -1,3 +1,19 @@
+// Problem: Two Sum
+// Platform: LeetCode
+// Difficulty: Easy
+// Topic: Arrays
+
+/*
+BRUTE FORCE:
+Try all pairs (i, j)
+
+If nums[i] + nums[j] == target → return {i, j}
+
+Time: O(n^2)
+Space: O(1)
+*/
+
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
