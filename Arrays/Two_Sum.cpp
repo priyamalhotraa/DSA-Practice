@@ -9,8 +9,6 @@ Try all pairs (i, j)
 
 If nums[i] + nums[j] == target → return {i, j}
 
-Time: O(n^2)
-Space: O(1)
 */
 
 
