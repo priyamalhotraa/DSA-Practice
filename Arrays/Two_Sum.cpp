@@ -1,16 +1,11 @@
 // Problem: Two Sum
-// Platform: LeetCode
-// Difficulty: Easy
 // Topic: Arrays
 
 /*
 BRUTE FORCE:
 Try all pairs (i, j)
-
 If nums[i] + nums[j] == target → return {i, j}
-
 */
-
 
 class Solution {
 public:
