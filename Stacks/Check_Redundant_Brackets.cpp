@@ -2,7 +2,7 @@
 // Topic: Stack, String
 
 /*
-APPROACH:
+APPROACH: gfg
 Use a stack to store opening brackets and operators.
 
 - Traverse each character in the expression.
