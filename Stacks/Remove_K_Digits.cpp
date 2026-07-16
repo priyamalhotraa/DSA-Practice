@@ -1,5 +1,5 @@
 // Problem: Remove K Digits
-// Topic: Stack, Greedy
+// Topic: Stack, Greedy 
 
 /*
 APPROACH:
