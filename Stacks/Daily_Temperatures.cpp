@@ -4,8 +4,7 @@
 /*
 APPROACH:
 
-Use a monotonic decreasing stack to keep track of
-indices whose next warmer temperature has not been found.
+Use a monotonic decreasing stack to keep track of indices whose next warmer temperature has not been found.
 
 - Traverse the array from left to right.
 - For each temperature:
