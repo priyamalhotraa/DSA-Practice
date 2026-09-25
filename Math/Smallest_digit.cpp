@@ -2,7 +2,7 @@
 // Problem: Smallest Digit
 // Topic: Math
 
-/*
+/* CH
 APPROACH:
 Find the smallest digit present in the given number.
 
