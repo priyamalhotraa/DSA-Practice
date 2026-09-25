@@ -2,7 +2,7 @@
 // Problem: Smallest Digit
 // Topic: Math
 
-/* CH
+/*
 APPROACH:
 Find the smallest digit present in the given number.
 
@@ -19,22 +19,20 @@ After checking all digits:
 */
 
 class Solution {
-
 public:
-
     int smallestDigit(int num) {
        
         int d = 0;
-        int smallest = num%10;
-      
-        while(num > 0){
-            d = num%10;
-            num=num/10;
-            if(smallest>d)
-            smallest=d;
+        int smallest = num % 10;
+
+        while(num > 0) {
+            d = num % 10;
+            num = num / 10;
+
+            if(smallest > d)
+                smallest = d;
         }
         return smallest;
     }
-
 };
 ```
