@@ -2,7 +2,7 @@
 // Problem: Sum of Digits
 // Topic: Math
 
-/*
+/* CH
 APPROACH:
 Find the sum of all digits present in the given number.
 
