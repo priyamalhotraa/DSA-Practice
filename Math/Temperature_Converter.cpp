@@ -12,7 +12,7 @@ If conversionType is "CtoF":
 If conversionType is "FtoC":
     Convert Fahrenheit to Celsius using (temp - 32) * 5 / 9.
 
-Return the converted temperature.
+Return the converted temperature 
 */
 
 class TemperatureConverter {
