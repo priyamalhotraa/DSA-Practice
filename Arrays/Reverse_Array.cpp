@@ -1,5 +1,5 @@
 ```cpp
-// Problem: Reverse Array
+// Problem: Reverse Array or Vector
 // Topic: Arrays
 
 /*
