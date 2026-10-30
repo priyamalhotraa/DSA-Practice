@@ -5,7 +5,6 @@
 /* CH
 APPROACH:
 Find the area of a circle using its radius.
-
 Use the formula:
     Area = π × r × r
 
