@@ -2,7 +2,7 @@
 // Problem: Decode a Message
 // Topic: String
 
-/* CH
+/* CH (Codehelp)
 APPROACH:
 Decode the given message by converting each character into
 its corresponding lowercase alphabet.
